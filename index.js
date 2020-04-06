@@ -9,5 +9,6 @@ console.log(
   currentDayOfWeek,
   currentMonth,
   currentDay,
-  currentYear
+  currentYear,
+  name
 );
